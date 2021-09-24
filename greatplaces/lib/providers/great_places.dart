@@ -58,7 +58,6 @@ class GreatPlacesProvider with ChangeNotifier {
               image: File(item["image"]),
             ))
         .toList();
-    notifyListeners();
   }
 
   Future<void> deletePlace(String id) async {
