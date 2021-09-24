@@ -17,9 +17,7 @@ In this application, the user can save the places he likes, he can write the nam
 
 User can enter the coordinates on the map manually or let the phone do it for him.
 
-After the meat is added at any time, it can return and see what is there, or delete it if I no longer need a place
-
-After the place is added, the user can return at any time and see the details or delete the place if it is no longer needed
+After the place is added, the user can return at any time and see the details of place or delete the place if it is no longer needed
 #
 
 ##### Add new place
