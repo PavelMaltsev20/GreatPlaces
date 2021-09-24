@@ -12,8 +12,6 @@ import 'package:provider/provider.dart';
 class AddPlaceScreen extends StatefulWidget {
   static const routeName = "/add-place-screen";
 
-  const AddPlaceScreen({Key key}) : super(key: key);
-
   @override
   _AddPlaceScreenState createState() => _AddPlaceScreenState();
 }
