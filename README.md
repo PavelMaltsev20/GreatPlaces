@@ -28,14 +28,10 @@ After the place is added, the user can return at any time and see the details or
 #
 |Select place on map  | Delete place|
 |--|--|
-| <div align="center">
-  <img src="https://github.com/PavelMaltsev20/GreatPlaces/blob/master/images/map_example.gif?raw=true" width="120" height="200">
-  </div>  |  <img src="https://github.com/PavelMaltsev20/GreatPlaces/blob/master/images/delete_example.gif?raw=true" width="120" height="200">   |
+| <div align="center"><img src="https://github.com/PavelMaltsev20/GreatPlaces/blob/master/images/map_example.gif?raw=true" width="120" height="200"></div>  |  <img src="https://github.com/PavelMaltsev20/GreatPlaces/blob/master/images/delete_example.gif?raw=true" width="120" height="200">   |
 
 #
 |   Make photo of place| Check out place details |
 |--|--|
-|<div align="center">
-  <img src="https://github.com/PavelMaltsev20/GreatPlaces/blob/master/images/camera_example.gif?raw=true" width="120" height="200">
-  </div>| <div align="center"><img src="https://github.com/PavelMaltsev20/GreatPlaces/blob/master/images/place_details.gif?raw=true" width="120" height="200"></div>  |
+|<div align="center"><img src="https://github.com/PavelMaltsev20/GreatPlaces/blob/master/images/camera_example.gif?raw=true" width="120" height="200"> </div>| <div align="center"><img src="https://github.com/PavelMaltsev20/GreatPlaces/blob/master/images/place_details.gif?raw=true" width="120" height="200"></div>  |
 
