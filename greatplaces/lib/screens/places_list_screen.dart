@@ -60,6 +60,11 @@ class PlacesListScreen extends StatelessWidget {
                                   Provider.of<GreatPlacesProvider>(context,
                                           listen: false)
                                       .deletePlace(currentPlace.id);
+
+                                  ScaffoldMessenger.of(context)
+                                      .showSnackBar(SnackBar(
+                                    content: Text("Place deleted"),
+                                  ));
                                 },
                               );
                             },
