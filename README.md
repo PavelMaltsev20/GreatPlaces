@@ -1,4 +1,4 @@
-﻿
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/PavelMaltsev20/GreatPlaces/master/images/app_icon.png" width="300" height="300">
 <div>
@@ -22,19 +22,16 @@ After the meat is added at any time, it can return and see what is there, or del
 After the place is added, the user can return at any time and see the details or delete the place if it is no longer needed
 #
 
- 
 ##### Add new place
 <img src="https://github.com/PavelMaltsev20/GreatPlaces/blob/master/images/new_place.gif?raw=true" width="120" height="200"> 
 
-##### Make photo of place
-<img src="https://github.com/PavelMaltsev20/GreatPlaces/blob/master/images/camera_example.gif?raw=true" width="120" height="200"> 
+#
+|Select place on map  | Delete place|
+|--|--|
+| <img src="https://github.com/PavelMaltsev20/GreatPlaces/blob/master/images/map_example.gif?raw=true" width="120" height="200">  |  <img src="https://github.com/PavelMaltsev20/GreatPlaces/blob/master/images/delete_example.gif?raw=true" width="120" height="200">   |
 
-##### Select place on map
-<img src="https://github.com/PavelMaltsev20/GreatPlaces/blob/master/images/map_example.gif?raw=true" width="120" height="200"> 
-
-##### Check out place details
-<img src="https://github.com/PavelMaltsev20/GreatPlaces/blob/master/images/place_details.gif?raw=true" width="120" height="200"> 
-
-##### Delete place
-<img src="https://github.com/PavelMaltsev20/GreatPlaces/blob/master/images/delete_example.gif?raw=true" width="120" height="200"> 
+#
+|   Make photo of place| Check out place details |
+|--|--|
+|<img src="https://github.com/PavelMaltsev20/GreatPlaces/blob/master/images/camera_example.gif?raw=true" width="120" height="200"> | <img src="https://github.com/PavelMaltsev20/GreatPlaces/blob/master/images/place_details.gif?raw=true" width="120" height="200">  |
 
